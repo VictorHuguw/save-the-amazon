@@ -1,3 +1,3 @@
 "# save-the-amazon" 
 
-hello
+Parei no 56:27 do video, nao consegui renderizar o passaro.
